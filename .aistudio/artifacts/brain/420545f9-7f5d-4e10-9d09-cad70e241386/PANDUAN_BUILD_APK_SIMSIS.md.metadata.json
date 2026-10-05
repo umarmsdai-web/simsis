@@ -1,0 +1,5 @@
+{
+  "summary":  "Panduan lengkap dan praktis cara mengompilasi (build) proyek SimSis (Simpanan Siswa) menjadi berkas APK Android yang siap dipasang langsung di HP Android. Mencakup metode Android Studio, baris perintah Gradle (./gradlew assembleDebug), build otomatis di Cloud GitHub Actions, serta konfigurasi Release APK.",
+  "updatedAt":  "2026-10-05T03:30:07.401501985Z",
+  "userFacing":  true
+}
