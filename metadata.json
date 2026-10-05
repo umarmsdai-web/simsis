@@ -1,0 +1,6 @@
+{
+  "name": "SimSis - Simpanan Siswa (Android Native)",
+  "description": "Aplikasi Android Native (Kotlin, Jetpack Compose, Material 3, Room Database) untuk pencatatan uang simpanan siswa dengan fitur setoran, penarikan, saldo otomatis, mutasi, laporan, WhatsApp share, dan export PDF oleh MSD Temanggung by Umar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
